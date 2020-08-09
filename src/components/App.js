@@ -3,7 +3,7 @@ import Popup from "reactjs-popup";
 import Select from 'react-select';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Card from "./Card";
-import index from "../index";
+import index from "./../index";
 
 
 
