@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Card = ({position}) => (
+const Card = ({positions}) => (
     <div className="card">
       <div className="content">
         File Size:50MB
